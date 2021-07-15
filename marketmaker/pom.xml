@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>de.hw4.binance</groupId>
-	<artifactId>marketmaker</artifactId>
+	<groupId>com.binance.bot</groupId>
+	<artifactId>binance-bot-henry-marketmaker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Automatic Trading</name>
 	<description>Uses Binance Java-Rest-API</description>
@@ -57,7 +57,7 @@
 		<dependency>
 			<groupId>com.binance.api</groupId>
 			<artifactId>binance-api-client</artifactId>
-			<version>1.0.4-HENRY</version>
+			<version>1.0.1</version>
 		</dependency>
 		
 		<dependency>
