@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.binance.bot</groupId>
 	<artifactId>binance-bot-henry-marketmaker</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Automatic Trading</name>
 	<description>Uses Binance Java-Rest-API</description>
 	<packaging>jar</packaging>
